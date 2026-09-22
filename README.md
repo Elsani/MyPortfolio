@@ -1,26 +1,29 @@
-# Portfolio Smoothie
+# Personal Portfolio Website
 
-https://elsan-portfolio-onxs.vercel.app/    , can you update my Portfolio , with  https://github.com/Elsani?tab=repositories  , to do like smoothie !
+Modern, responsive personal portfolio built with React, Vite, TypeScript, and Tailwind CSS. Showcases fullstack engineering projects, core technical skills, and contact information.
 
-This project was built with [Lovable](https://lovable.dev).
+## 🌐 Live Demo
+- **Live URL:** [https://myportfolio.elsan-memeti.workers.dev](https://myportfolio.elsan-memeti.workers.dev)
 
-**Live app**: https://smoothie-artisan-showcase.lovable.app
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Framer Motion
+- **Deployment:** Cloudflare Workers / Pages
+- **Architecture:** Component-driven, responsive UI, high CWV performance
 
-## Build with Lovable
+## 💻 Local Development
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/9d78a203-502b-4790-8589-8fc0aeff3359).
+```bash
+# Clone repository
+git clone https://github.com/Elsani/MyPortfolio.git
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+# Install dependencies
+npm install
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+# Start local dev server
 npm run dev
-```
+
+📬 Contact
+LinkedIn: linkedin.com/in/elsan-memeti
+GitHub: github.com/Elsani
+Email: 
+elsan.memeti@gmail.com
