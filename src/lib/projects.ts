@@ -65,3 +65,10 @@ export const projects: Project[] = [
     year: "2024",
   }
 ];
+
+export const skills = [
+  { group: "Frontend", items: ["React", "Next.js", "TypeScript", "Tailwind", "HTML5", "CSS3"] },
+  { group: "Backend", items: ["Node.js", "Express", "REST APIs", "Spring Boot", "Java"] },
+  { group: "Data", items: ["MongoDB", "MySQL", "PostgreSQL"] },
+  { group: "Tools", items: ["Git & GitHub", "Docker", "Vite", "Vercel"] },
+];
